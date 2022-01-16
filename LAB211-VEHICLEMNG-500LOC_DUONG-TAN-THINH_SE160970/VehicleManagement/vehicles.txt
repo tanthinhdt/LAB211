@@ -1,0 +1,17 @@
+2,V011,future,black,1000,honda,100,yes
+2,V012,future,black,1000,honda,-100,yes
+2,V013,future,black,1000,honda,100,dd
+2,V014,future,black,1000,honda,100,Yes
+2,V015,future,black,1000,honda,100,Y
+2,V016,future,black,1000,honda,100,yeadfd
+2,V017,future,black,1000,honda,100,No
+2,V018,future,black,1000,honda,100,no
+2,V019,future,black,1000,honda,100,n
+2,V014,future,black,1000,honda,100,Nodad
+1,V004,innova,silver,10000,honda,travel,2005
+0,V005,innova,silver,10000,honda,travel,2005
+1,V006,mazda1,red,-20000,mazda,travel,2015
+1,V007,mazda2,red,20000,mazda,travel,2015
+1,V008,mazda3,red,20000,mazda,travel,2030
+1,V009,mazda4,red,20000,mazda,travel,-2015
+1,V010,mazda5,red,30000,mazda,travel,2020
